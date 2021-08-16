@@ -1,7 +1,11 @@
-### Hey there, I'm Pedro. :wave:
+#### Hello there! I'm Pedro Lima. :wave:
 
 
-- 🐘 Mostly working with PHP/Laravel, JavaScript, Vue.js, React and GraphQL;
-- 🌦 Server(less)? Cloud computing? Currently working using AWS. I don't feel boring managing servers (hey, did you know about the serverless-initiative?). I have a good understading about Linux and Docker (I don't k8s).
-- 🤖 AI is a topic of interest. 
+-  👨‍💻 Main stack: PHP/Laravel, JavaScript (Vue.js, ReactJS, Next.js), TailwindCSS and AWS.
+-  🛀 Obsessed with Systems Design and Software Architecture (Design Patterns, Principles, OOP, Clean Code, etc)
+-  💼 I'm currently working at Dextra
+
+##
+
+  <a href="https://www.linkedin.com/in/webmasterdro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
