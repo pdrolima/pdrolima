@@ -2,7 +2,7 @@
 
 
 -  👨‍💻 Main stack: PHP/Laravel, JavaScript (Vue.js, ReactJS, Next.js), TailwindCSS and AWS.
--  🛀 Obsessed with Systems Design and Software Architecture (Design Patterns, Principles, OOP, Clean Code, etc)
+-  🛀 Passionate with Systems Design and Software Architecture (Design Patterns, Principles, OOP, Clean Code, etc)
 -  💼 I'm currently working at Dextra
 
 ##
