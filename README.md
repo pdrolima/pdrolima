@@ -2,12 +2,12 @@
 
 
 -  👨‍💻 Main stack: PHP/Laravel, JavaScript (Vue.js, ReactJS, Next.js), TailwindCSS and AWS.
--  🛀 Passionate with Systems Design and Software Architecture (Design Patterns, Principles, OOP, Clean Code, etc)
+-  🛀 Fascinated with Systems Design and Software Architecture (Design Patterns, Principles, OOP, Clean Code, etc)
 -  💼 I'm currently working at Dextra
 
-🌱 Currently focusing on learning/relearning Go and gRPC, Typescript and Electron.
+🌱 Focusing on learning/relearning Go and gRPC, Typescript and Electron.
 
-🚀 My eyes lights up with highly available, scalable and resilient services (microservices) and serverless archictecture.
+🚀 Very interested in highly available, scalable and resilient applications ad microservices. Also with serverless archictecture.
 
 
 ##
